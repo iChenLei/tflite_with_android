@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/yangjingchou/code/tflite/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/Users/yangjingchou/.android/build-cache/6eddfdbab40b40e2d9a0c83e3ebb727bca165ca8/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/Users/yangjingchou/code/tflite/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/Users/yangjingchou/.android/build-cache/6eddfdbab40b40e2d9a0c83e3ebb727bca165ca8/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/yangjingchou/code/tflite/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/yangjingchou/.android/build-cache/6eddfdbab40b40e2d9a0c83e3ebb727bca165ca8/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/yangjingchou/code/tflite/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/yangjingchou/.android/build-cache/6eddfdbab40b40e2d9a0c83e3ebb727bca165ca8/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    }
+]

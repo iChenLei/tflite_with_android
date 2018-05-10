@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/yangjingchou/code/tflite/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_action_info.png",
+        "source": "/Users/yangjingchou/code/tflite/tensorflow/tensorflow/contrib/lite/java/demo/app/src/main/res/drawable-xxhdpi/ic_action_info.png"
+    },
+    {
+        "merged": "/Users/yangjingchou/code/tflite/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_launch.png",
+        "source": "/Users/yangjingchou/code/tflite/tensorflow/tensorflow/contrib/lite/java/demo/app/src/main/res/drawable-xxhdpi/ic_launch.png"
+    },
+    {
+        "merged": "/Users/yangjingchou/code/tflite/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_launcher.png",
+        "source": "/Users/yangjingchou/code/tflite/tensorflow/tensorflow/contrib/lite/java/demo/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/yangjingchou/code/tflite/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/Users/yangjingchou/.android/build-cache/bed43a603881dc7dd8ee5e3545335bb7cb8885a7/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]
