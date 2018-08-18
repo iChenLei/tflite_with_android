@@ -23,4 +23,4 @@ you can find how to use the java api to run the deep-learning!
 ```
 MIT License Copyright©2018-present
 
-Created by chenlei©xidian_university
+Created by chenlei©XDU
