@@ -1,5 +1,5 @@
 #### Tensorflow Lite with android
->deprecated
+>deprecated project
 
 <p align="center"><img src="http://wx2.sinaimg.cn/mw690/0060lm7Tly1fr6dayeuv7j30a40a4q2w.jpg" with="100px" height="100px"></p>
 
